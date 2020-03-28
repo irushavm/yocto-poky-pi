@@ -1,0 +1,5 @@
+build/bitbake*
+build/cache/
+build/downloads/
+build/sstate-cache/
+build/tmp/
