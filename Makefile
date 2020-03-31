@@ -5,5 +5,4 @@ install:
      xterm
 
 setup-env:
-	source poky/oe-init-build-env build
-
+	source sources/poky/oe-init-build-env build
