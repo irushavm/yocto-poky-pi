@@ -4,4 +4,4 @@ build/downloads/
 build/sstate-cache/
 build/tmp/
 
-wpa_supplicant.conf
+wpa_supplicant-nl80211-wlan0.conf
